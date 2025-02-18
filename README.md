@@ -1,16 +1,7 @@
 # Predicting-Term-Deposit-Subscriptions-Using-Decision-Tree-Analysis
 Project Overview
 This project aims to predict client subscription to term deposits using a decision tree classification model. By analyzing a comprehensive bank marketing dataset, this project identifies key predictors of client behavior, offering insights to enhance targeted marketing strategies. The dataset includes various demographic and financial attributes derived from previous marketing campaigns.
-Table of Contents
 
-Project Overview
-Dataset
-Analysis Methodology
-Results
-Installation and Usage
-Contributing
-License
-Acknowledgments
 
 Dataset
 The dataset used in this project is collected from multiple marketing campaigns conducted by a bank. It includes the following key variables:
@@ -40,39 +31,7 @@ Prerequisites
 Python 3.x
 Required Python libraries: pandas, numpy, scikit-learn, matplotlib
 
-Installation
-
 Clone the repository:bash  Copy codegit clone https://github.com/FabcanK6/bank-marketing-analysis.git
-
-
-Navigate to the project directory:bash  Copy codecd bank-marketing-analysis
-
-
-Install the required packages:bash  Copy codepip install -r requirements.txt
-
-
-
-Usage
-
-Run the analysis script:bash  Copy codepython src/analyze.py
-
-
-View the results and visualizations in the results/ directory.
-
-Contributing
-Contributions are welcome! Please follow these steps to contribute:
-
-Fork the repository.
-Create a new branch:bash  Copy codegit checkout -b feature-branch
-
-
-Make your changes and commit them:bash  Copy codegit commit -m "Add new feature"
-
-
-Push to the branch:bash  Copy codegit push origin feature-branch
-
-
-Create a pull request.
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
